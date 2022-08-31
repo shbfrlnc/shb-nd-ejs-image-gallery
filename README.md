@@ -1,4 +1,4 @@
-# NDMGGLLRY - Studi Kasus Node.js Aplikasi Image Gallery
+# NDMGGLLRY - Aplikasi Image Gallery dengan Node.js
 
 ## Cara Mencoba Kode Ini
 
