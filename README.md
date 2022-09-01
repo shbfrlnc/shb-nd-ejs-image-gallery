@@ -1,5 +1,9 @@
 # NDMGGLLRY - Aplikasi Image Gallery dengan Node.js
 
+## Software Apakah Ini?
+
+NDMGGLLRY adalah Aplikasi Image Gallery dengan Node.js.
+
 ## Cara Mencoba Kode Ini
 
 Untuk mencoba kode ini, download folder ini.
