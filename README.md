@@ -1,12 +1,12 @@
-# NDMGGLLRY - Aplikasi Image Gallery dengan Node.js
+# shb-nd-ejs-image-gallery - Aplikasi Image Gallery dengan Node.js
 
 ## Software Apakah Ini?
 
-NDMGGLLRY adalah Aplikasi Image Gallery dengan Node.js.
+shb-nd-ejs-image-gallery adalah Aplikasi Image Gallery dengan Node.js.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/NDMGGLLRY-1.png?raw=true)
+![ScreenShot](.readme-assets/shb-nd-ejs-image-gallery-1.png?raw=true)
 
 ## Cara Mencoba Kode Ini
 
