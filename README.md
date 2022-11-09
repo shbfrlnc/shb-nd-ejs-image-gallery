@@ -1,5 +1,9 @@
 # shb-nd-ejs-image-gallery - Aplikasi Image Gallery dengan Node.js
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini?
 
 shb-nd-ejs-image-gallery adalah Aplikasi Image Gallery dengan Node.js.
